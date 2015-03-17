@@ -1,0 +1,22 @@
+{
+  "name": "weather-chart",
+  "version": "1.0.0",
+  "description": "Practice with d3/c3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "John",
+  "license": "ISC",
+  "dependencies": {
+    "c3": "^0.4.10-rc4",
+    "d3": "^3.5.5",
+    "jquery": "^2.1.3"
+  },
+  "devDependencies": {
+    "browserify": "^9.0.3",
+    "gulp": "^3.8.11",
+    "vinyl-source-stream": "^1.1.0",
+    "watchify": "^2.4.0"
+  }
+}
